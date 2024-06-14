@@ -5,7 +5,7 @@ void main() {
     const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text('First step'),
+          child: Text('First step taken'),
         ),
       ),
     ),
